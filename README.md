@@ -4,7 +4,7 @@
 
 ### Landing Page
 
-![Landing] (screenshots/Landing.png)
+![Landing](screenshots/Landing.png)
 
 ### Firebase
 
