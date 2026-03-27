@@ -4,7 +4,9 @@
 
 ### Firebase
 
+![Firebase] (screenshots/Firebase.png)
 
+![Firebase2] (screenshots/Firebase2.png)
 
 
 NoteNest is an intelligent, modern, and offline-capable Progressive Web Application for capturing, organizing, and syncing your notes in real time.
