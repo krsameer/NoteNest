@@ -1,3 +1,12 @@
+# NoteNest - Modern Note Taking Progressive Web Application
+
+## Screenshots
+
+### Firebase
+
+
+
+
 NoteNest is an intelligent, modern, and offline-capable Progressive Web Application for capturing, organizing, and syncing your notes in real time.
 Whether it’s text, images, or voice memos — NoteNest helps you save your thoughts securely in the cloud with a smooth, responsive interface.
 
